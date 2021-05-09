@@ -2,15 +2,16 @@
  "name": "siriuschem",
  "displayName": "Siriuschem",
  "author": "Sirius&NothingToDo",
- "version": "1.121",
+ "version": "1.2",
  "minGameVersion": "126",
  "description": "
 Search 'Sirius', 'NothingToDo' in Schematics!
 
-AB: AirBlast drill
-BS: Black Sand
-WS: White sand
-NW: Need Water  
+AB: AirBlast drill 
+BS: Black Sand 
+WS: White sand 
+NW: Need Water 
+EW: External Water
 
 Sirius Schem Youtube link
 
